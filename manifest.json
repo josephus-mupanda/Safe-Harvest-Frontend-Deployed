@@ -1,0 +1,35 @@
+{
+    "name": "safeharvest_frontend",
+    "short_name": "safeharvest_frontend",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "SafeHarvest QA is an advanced software solution designed to assist the Food and Agriculture Organization (FAO) in the Democratic Republic of the Congo (DRC) in establishing and maintaining standards for food safety and quality. The platform provides comprehensive tools for setting guidelines on good agricultural and manufacturing practices, ensuring the safety and quality of food throughout the supply chain.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
